@@ -9,13 +9,10 @@
     <div class="row">
         <div class="col">
             <hgroup>
-                <h1 class="jumbotron text-center">Portafolio Ángel Vega</h1>
-                <h2>Trabajos</h2>
+                <h1>Portafolio Ángel Vega</h1>
+                <h2>Lenguajes</h2>
             </hgroup>
         </div>
     </div>
-     <div class="col">
-         
-     </div>
 </body>
 </html>
