@@ -9,8 +9,8 @@
     <div class="row">
         <div class="col">
             <hgroup>
-                <h1>Portafolio Ángel Vega</h1>
-                <h2>Lenguajes</h2>
+                <h1>Soy Ángel Vega</h1>
+                <h2>Soy backend web developer, me gusta la tecnología</h2>
             </hgroup>
         </div>
     </div>
